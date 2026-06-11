@@ -112,7 +112,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=farhan-ullah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=farhan-ullah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
 
 </div>
 
