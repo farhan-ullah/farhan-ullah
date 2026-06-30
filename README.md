@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-farhanullah.vercel.app-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://farhanullah.vercel.app/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013992fc394427ee8c)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/0b7ba7v)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ullah-6569131b2/)
 [![Email](https://img.shields.io/badge/Email-farhanullahjan1234@gmail.com-E94057?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanullahjan1234@gmail.com)
 
@@ -15,9 +16,10 @@
 
 ## 👨‍💻 About Me:
 
-- 🔭 I'm a **Senior Flutter & Android Developer** with 4+ years of experience building high-performance mobile apps.
+- 🔭 I'm a **Senior Flutter & Android Developer** with 5+ years of experience building high-performance mobile apps.
 - 🏢 Currently working as **Flutter Developer | Lead** at **Averox**, Islamabad, Pakistan.
-- 📱 **10+ published apps** on App Store & Google Play — from real-time communication to enterprise solutions.
+- 📱 **30+ published apps** on App Store & Google Play — from real-time communication to enterprise solutions.
+- 💼 **Top-rated freelancer** on Upwork (35+ jobs, 100% success) and Fiverr (Level 1, 5.0 rating, 56 orders).
 - 👯 I'm looking to collaborate on **Flutter, mobile app development & real-time communication** projects.
 - 🤝 I'm looking for help with **backend services, cloud architecture & AI integrations**.
 - 🌱 I'm currently learning **AI-assisted development, LLMs & advanced WebRTC architectures**.
@@ -152,6 +154,7 @@ COMSATS University Islamabad · 2018 – 2022
 ### 🚀 Available for Hire — Let's build something extraordinary!
 
 [![Upwork](https://img.shields.io/badge/💼_Hire_Me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013992fc394427ee8c)
+[![Fiverr](https://img.shields.io/badge/🎯_Hire_Me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/0b7ba7v)
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://farhanullah.vercel.app/)
 
 ⭐️ From [farhan-ullah](https://github.com/farhan-ullah)
