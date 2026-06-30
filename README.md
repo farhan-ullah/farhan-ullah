@@ -2,7 +2,7 @@
 
 # Hi there, I'm Farhan Ullah 👋
 
-### Senior Flutter & Android Developer | Real-Time Specialist | Scalable Mobile Solutions
+### Senior Flutter & Android Developer | Flutter 3.x | Real-Time Specialist | CI/CD & ASO
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-farhanullah.vercel.app-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://farhanullah.vercel.app/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013992fc394427ee8c)
@@ -16,14 +16,12 @@
 
 ## 👨‍💻 About Me:
 
-- 🔭 I'm a **Senior Flutter & Android Developer** with 5+ years of experience building high-performance mobile apps.
-- 🏢 Currently working as **Flutter Developer | Lead** at **Averox**, Islamabad, Pakistan.
-- 📱 **30+ published apps** on App Store & Google Play — from real-time communication to enterprise solutions.
-- 💼 **Top-rated freelancer** on Upwork (35+ jobs, 100% success) and Fiverr (Level 1, 5.0 rating, 56 orders).
-- 👯 I'm looking to collaborate on **Flutter, mobile app development & real-time communication** projects.
-- 🤝 I'm looking for help with **backend services, cloud architecture & AI integrations**.
-- 🌱 I'm currently learning **AI-assisted development, LLMs & advanced WebRTC architectures**.
-- 💬 Ask me about **Flutter, WebRTC, LiveKit, MediaSoup, Clean Architecture & mobile performance**.
+- 🔭 I'm a **Senior Flutter & Android Developer** with **5+ years** of experience and **30+ published apps** on App Store & Google Play.
+- 🏢 Currently working as **Senior Flutter Developer (Team Lead)** at **Averox**, Islamabad, Pakistan.
+- 📱 Specialist in **Flutter 3.x**, real-time communications (**WebRTC, LiveKit, MediaSoup**), and **Clean Architecture**.
+- 💼 Top-rated freelancer on **Upwork** (\$10K+ earned, 35+ contracts, 100% Job Success) and **Fiverr** (Level 1, 5.0 rating, 56 orders).
+- 🚀 Full-cycle delivery: **Fastlane, GitHub Actions, Bitrise, Codemagic**, **ASO**, and **localization (i18n)**.
+- 💬 Ask me about **Flutter, WebRTC, LiveKit, MediaSoup, Clean Architecture, Sentry & mobile performance**.
 - ⚡ Fun fact: I specialize in taking **AI-generated MVPs** (Cursor, Lovable, Bolt) and bringing them to **production-grade quality**.
 
 ---
@@ -39,7 +37,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter%203.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
@@ -68,6 +66,9 @@
 ### DevOps & Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-000000?style=for-the-badge&logo=codemagic&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -92,7 +93,9 @@
 | **QB Food** | Grocery & food delivery platform | [App Store](https://apps.apple.com/us/app/qbfood/id1313671194) · [Play Store](https://play.google.com/store/apps/details?id=com.qbfood) |
 | **Beep Pakistan** | National communication & messaging | [App Store](https://apps.apple.com/us/app/beep-pakistan/id6705126441) · [Play Store](https://play.google.com/store/apps/details?id=com.beeppk.app) |
 | **My Gift App** | Personalized gifting engine | [App Store](https://apps.apple.com/pk/app/mygiftapp/id1615086391) |
+| **My Gift Partner** | Vendor app for partner network | [App Store](https://apps.apple.com/pk/app/my-gift-partner/id6444091640) |
 | **Frabelle** | Enterprise supply chain & retail | [Play Store](https://play.google.com/store/apps/details?id=com.johnsonville.frabelle) |
+| **PPIM Yakin** | Community app with geolocation | [Play Store](https://play.google.com/store/apps/details?id=my.org.ppim.yakin) |
 
 ---
 
@@ -124,11 +127,22 @@
 
 | Company | Role | Period |
 |---------|------|--------|
-| **Averox** | Flutter Developer \| Lead | Jan 2025 – Present |
-| **Grace Technologies** | Flutter Developer | Aug 2024 – Dec 2024 |
-| **Merik Solutions** | Flutter Developer | Jan 2023 – Jul 2024 |
+| **Averox** | Senior Flutter Developer (Team Lead) | Jan 2025 – Present |
+| **Grace Technologies** | Senior Flutter Developer (Contract) | Aug 2024 – Dec 2024 |
+| **Merik Solutions** | Senior Flutter Developer | Jan 2023 – Jul 2024 |
 | **StratAgile** | Flutter Developer | Aug 2021 – Aug 2022 |
-| **S-Tech.** | Mobile Application Developer | Jul 2021 – Aug 2021 |
+| **S-Tech.** | Mobile Application Developer (Contract) | Jul 2021 – Aug 2021 |
+
+---
+
+## 💻 Freelance & Consulting (Part-Time):
+
+| Platform | Highlights | Profile |
+|----------|------------|---------|
+| **Upwork** | \$10K+ earned · 1,000+ hours · 35+ contracts · 100% Job Success | [Hire Me](https://www.upwork.com/freelancers/~013992fc394427ee8c) |
+| **Fiverr** | Level 1 Seller · 5.0 rating · 56 orders · 100% response rate | [Hire Me](https://www.fiverr.com/s/0b7ba7v) |
+
+*Jul 2021 – Present · Remote · Islamabad, Pakistan*
 
 ---
 
