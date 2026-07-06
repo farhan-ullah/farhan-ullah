@@ -2,7 +2,7 @@
 
 # Hi there, I'm Farhan Ullah 👋
 
-### Senior Flutter & Android Developer | Flutter 3.x | Real-Time Specialist | CI/CD & ASO
+### Senior Mobile App Developer | Android & iOS | Flutter 3.x | Real-Time Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-farhanullah.vercel.app-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://farhanullah.vercel.app/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013992fc394427ee8c)
@@ -16,13 +16,13 @@
 
 ## 👨‍💻 About Me:
 
-- 🔭 I'm a **Senior Flutter & Android Developer** with **5+ years** of experience and **30+ published apps** on App Store & Google Play.
-- 🏢 Currently working as **Senior Flutter Developer (Team Lead)** at **Averox**, Islamabad, Pakistan.
-- 📱 Specialist in **Flutter 3.x**, real-time communications (**WebRTC, LiveKit, MediaSoup**), and **Clean Architecture**.
+- 🔭 I'm a **Senior Mobile App Developer** with **5+ years** in **Android and iOS** development and **30+ published apps** on App Store & Google Play.
+- 🏢 Currently **Senior Mobile App Developer (Team Lead)** at **Averox**, Islamabad, Pakistan.
+- 📱 Cross-platform delivery with **Flutter 3.x** and native depth in **Java/Kotlin** and **Swift/Xcode**.
+- 🎥 Specialist in real-time communications (**WebRTC, LiveKit, MediaSoup**), **Clean Architecture**, and **CI/CD** (Fastlane, GitHub Actions, Bitrise, Codemagic).
 - 💼 Top-rated freelancer on **Upwork** (\$10K+ earned, 35+ contracts, 100% Job Success) and **Fiverr** (Level 1, 5.0 rating, 56 orders).
-- 🚀 Full-cycle delivery: **Fastlane, GitHub Actions, Bitrise, Codemagic**, **ASO**, and **localization (i18n)**.
-- 💬 Ask me about **Flutter, WebRTC, LiveKit, MediaSoup, Clean Architecture, Sentry & mobile performance**.
-- ⚡ Fun fact: I specialize in taking **AI-generated MVPs** (Cursor, Lovable, Bolt) and bringing them to **production-grade quality**.
+- 🚀 Full-cycle mobile delivery: **ASO**, **localization (i18n)**, App Store Connect & Google Play Console.
+- ⚡ Fun fact: I refactor **AI-generated MVPs** (Cursor, Lovable, Bolt) into **production-grade** mobile apps.
 
 ---
 
@@ -127,10 +127,10 @@
 
 | Company | Role | Period |
 |---------|------|--------|
-| **Averox** | Senior Flutter Developer (Team Lead) | Jan 2025 – Present |
-| **Grace Technologies** | Senior Flutter Developer (Contract) | Aug 2024 – Dec 2024 |
-| **Merik Solutions** | Senior Flutter Developer | Jan 2023 – Jul 2024 |
-| **StratAgile** | Flutter Developer | Aug 2021 – Aug 2022 |
+| **Averox** | Senior Mobile App Developer (Team Lead) | Jan 2025 – Present |
+| **Grace Technologies** | Senior Mobile App Developer (Contract) | Aug 2024 – Dec 2024 |
+| **Merik Solutions** | Senior Mobile App Developer | Jan 2023 – Jul 2024 |
+| **StratAgile** | Mobile App Developer | Aug 2021 – Aug 2022 |
 | **S-Tech.** | Mobile Application Developer (Contract) | Jul 2021 – Aug 2021 |
 
 ---
