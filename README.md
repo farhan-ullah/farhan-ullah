@@ -103,11 +103,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhan-ullah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00C9FF&icon_color=E94057&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=farhan-ullah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00C9FF&icon_color=E94057&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-ullah&theme=tokyonight&hide_border=true&ring=00C9FF&fire=E94057&currStreakLabel=00C9FF&sideLabels=ffffff&dates=ffffff"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=farhan-ullah&theme=tokyonight&hide_border=true&ring=00C9FF&fire=E94057&currStreakLabel=00C9FF&sideLabels=ffffff&dates=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-ullah&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9FF&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=farhan-ullah&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9FF&text_color=ffffff&langs_count=8"/>
 
 </div>
 
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=farhan-ullah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
+<img src="https://github-profile-trophy-omega.vercel.app/?username=farhan-ullah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
 
 </div>
 
