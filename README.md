@@ -103,11 +103,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=farhan-ullah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00C9FF&icon_color=E94057&text_color=ffffff"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhan-ullah&theme=tokyonight"/>
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=farhan-ullah&theme=tokyonight&hide_border=true&ring=00C9FF&fire=E94057&currStreakLabel=00C9FF&sideLabels=ffffff&dates=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=farhan-ullah&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9FF&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan-ullah&theme=tokyonight"/>
 
 </div>
 
