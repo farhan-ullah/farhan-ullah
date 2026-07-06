@@ -9,7 +9,6 @@
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/0b7ba7v)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ullah-6569131b2/)
 [![Email](https://img.shields.io/badge/Email-farhanullahjan1234@gmail.com-E94057?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanullahjan1234@gmail.com)
-[![GitHub Contributions](https://img.shields.io/badge/2026_Contributions-356+-00C9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhan-ullah)
 
 </div>
 
@@ -23,7 +22,6 @@
 - 🎥 Specialist in real-time communications (**WebRTC, LiveKit, MediaSoup**), **Clean Architecture**, and **CI/CD** (Fastlane, GitHub Actions, Bitrise, Codemagic).
 - 💼 Top-rated freelancer on **Upwork** (\$10K+ earned, 35+ contracts, 100% Job Success) and **Fiverr** (Level 1, 5.0 rating, 56 orders).
 - 🚀 Full-cycle mobile delivery: **ASO**, **localization (i18n)**, App Store Connect & Google Play Console.
-- 📈 **356+ GitHub contributions** in 2026 — active daily shipper (**13 commits** on Jul 6, 2026).
 - ⚡ Fun fact: I refactor **AI-generated MVPs** (Cursor, Lovable, Bolt) into **production-grade** mobile apps.
 
 ---
