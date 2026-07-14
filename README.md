@@ -92,7 +92,7 @@
 | **RAASTA - Traffic Alerts** | Real-time traffic alerts, community reports & smart navigation (PK) | [App Store](https://apps.apple.com/us/app/raasta-traffic-alerts-pk/id6764243488) · [Play Store](https://play.google.com/store/apps/details?id=com.averox.raasta) |
 | **SmartFarm AI** | Dairy, livestock & crop management with carbon credits | [Play Store](https://play.google.com/store/apps/details?id=com.averox.smartfarmai) |
 | **Maya – AI Mortgage Advisor** | AI mortgage guidance, rates & applications for Canadians | [Play Store](https://play.google.com/store/apps/details?id=ca.mortgagesquad.mayaadvisor) |
-| **Summitly** | Canadian real estate app: MLS search, AI chat, valuation & mortgage pre-qual | [Website](https://www.summitly.ca) |
+| **Summitly** | Canadian real estate & mortgage companion | [Play Store](https://play.google.com/store/apps/details?id=com.summitly.summitlyapp) |
 | **Al Mukhtara Hotels** | Premium hotel booking & management | [App Store](https://apps.apple.com/us/app/mukhtara-hotels/id6740213125) · [Play Store](https://play.google.com/store/apps/details?id=com.stash.almukhtarahotels) |
 | **QB Food** | Grocery & food delivery platform | [App Store](https://apps.apple.com/us/app/qbfood/id1313671194) · [Play Store](https://play.google.com/store/apps/details?id=com.qbfood) |
 | **Beep Pakistan** | National communication & messaging | [App Store](https://apps.apple.com/us/app/beep-pakistan/id6705126441) · [Play Store](https://play.google.com/store/apps/details?id=com.beeppk.app) |
