@@ -103,17 +103,17 @@
 
 ---
 
-## 📊 GitHub Stats:
+// ## 📊 GitHub Stats:
 
-<div align="center">
+// <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhan-ullah&theme=tokyonight"/>
+// <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhan-ullah&theme=tokyonight"/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=farhan-ullah&theme=tokyonight&hide_border=true&ring=00C9FF&fire=E94057&currStreakLabel=00C9FF&sideLabels=ffffff&dates=ffffff"/>
+// <img height="180em" src="https://streak-stats.demolab.com/?user=farhan-ullah&theme=tokyonight&hide_border=true&ring=00C9FF&fire=E94057&currStreakLabel=00C9FF&sideLabels=ffffff&dates=ffffff"/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan-ullah&theme=tokyonight"/>
+// <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan-ullah&theme=tokyonight"/>
 
-</div>
+// </div>
 
 ---
 
