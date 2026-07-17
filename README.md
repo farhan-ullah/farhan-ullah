@@ -16,13 +16,14 @@
 
 ## 👨‍💻 About Me:
 
-- 🔭 I'm a **Senior Mobile App Developer** with **5+ years** in **Android and iOS** development and **30+ published apps** on App Store & Google Play.
+- 🔭 I'm a **Senior Flutter & Android Developer** with **5+ years** of experience and **30+ published apps** on App Store & Google Play.
 - 🏢 Currently **Senior Mobile App Developer (Team Lead)** at **Averox**, Islamabad, Pakistan.
 - 📱 Cross-platform delivery with **Flutter 3.x** and native depth in **Java/Kotlin** and **Swift/Xcode**.
 - 🎥 Specialist in real-time communications (**WebRTC, LiveKit, MediaSoup**), **Clean Architecture**, and **CI/CD** (Fastlane, GitHub Actions, Bitrise, Codemagic).
 - 💼 Top-rated freelancer on **Upwork** (\$10K+ earned, 35+ contracts, 100% Job Success) and **Fiverr** (Level 1, 5.0 rating, 56 orders).
 - 🚀 Full-cycle mobile delivery: **ASO**, **localization (i18n)**, App Store Connect & Google Play Console.
-- ⚡ Fun fact: I refactor **AI-generated MVPs** (Cursor, Lovable, Bolt) into **production-grade** mobile apps.
+- 💬 Ask me about **Flutter, WebRTC, LiveKit, MediaSoup, Clean Architecture, Sentry & mobile performance**.
+- ⚡ Fun fact: I specialize in taking **AI-generated MVPs** (Cursor, Lovable, Bolt) and bringing them to **production-grade quality**.
 
 ---
 
@@ -142,10 +143,10 @@
 
 | Company | Role | Period |
 |---------|------|--------|
-| **Averox** | Senior Mobile App Developer (Team Lead) | Jan 2025 – Present |
-| **Grace Technologies** | Senior Mobile App Developer (Contract) | Aug 2024 – Dec 2024 |
-| **Merik Solutions** | Senior Mobile App Developer | Jan 2023 – Jul 2024 |
-| **StratAgile** | Mobile App Developer | Aug 2021 – Aug 2022 |
+| **Averox** | Senior Flutter Developer (Team Lead) | Jan 2025 – Present |
+| **Grace Technologies** | Senior Flutter Developer (Contract) | Aug 2024 – Dec 2024 |
+| **Merik Solutions** | Senior Flutter Developer | Jan 2023 – Jul 2024 |
+| **StratAgile** | Flutter Developer | Aug 2021 – Aug 2022 |
 | **S-Tech.** | Mobile Application Developer (Contract) | Jul 2021 – Aug 2021 |
 
 ---
