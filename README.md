@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-farhanullah.vercel.app-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://farhanullah.vercel.app/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013992fc394427ee8c)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/0b7ba7v)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ullah-6569131b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanullah-flutter/)
 [![Email](https://img.shields.io/badge/Email-farhanullahjan1234@gmail.com-E94057?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanullahjan1234@gmail.com)
 
 </div>
