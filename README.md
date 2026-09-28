@@ -104,36 +104,25 @@
 
 ---
 
-<!-- ## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhan-ullah&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhan-ullah&theme=tokyonight" alt="GitHub stats"/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=farhan-ullah&theme=tokyonight&hide_border=true&ring=00C9FF&fire=E94057&currStreakLabel=00C9FF&sideLabels=ffffff&dates=ffffff"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=farhan-ullah&theme=tokyonight&hide_border=true&ring=00C9FF&fire=E94057&currStreakLabel=00C9FF&sideLabels=ffffff&dates=ffffff" alt="GitHub streak stats"/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan-ullah&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan-ullah&theme=tokyonight" alt="Most used languages"/>
 
 </div>
 
 ---
--->
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhan-ullah&theme=tokyo-night&hide_border=true&area=true&color=00C9FF&line=E94057&point=FFFFFF&bg_color=1a1b27" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-
-<img src="https://github-profile-trophy-omega.vercel.app/?username=farhan-ullah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
+<img src="https://ghchart.rshah.org/00C9FF/farhan-ullah" alt="Farhan Ullah GitHub contribution chart" width="100%"/>
 
 </div>
 
