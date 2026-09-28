@@ -108,11 +108,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhan-ullah&theme=tokyonight" alt="GitHub stats"/>
+<a href="https://github.com/farhan-ullah">
+  <img height="170em" src="https://streak-stats.demolab.com/?user=farhan-ullah&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=E94057&currStreakLabel=00C9FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub streak"/>
+  <img height="170em" src="https://github-contribution-stats.vercel.app/api?username=farhan-ullah" alt="Contribution stats"/>
+</a>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=farhan-ullah&theme=tokyonight&hide_border=true&ring=00C9FF&fire=E94057&currStreakLabel=00C9FF&sideLabels=ffffff&dates=ffffff" alt="GitHub streak stats"/>
+<br/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan-ullah&theme=tokyonight" alt="Most used languages"/>
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhan-ullah&theme=github_dark" alt="Top languages by repos"/>
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan-ullah&theme=github_dark" alt="Top languages by commits"/>
 
 </div>
 
@@ -122,7 +126,11 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00C9FF/farhan-ullah" alt="Farhan Ullah GitHub contribution chart" width="100%"/>
+<img src="https://ssr-contributions-svg.vercel.app/_/farhan-ullah?chart=3dbar&format=svg&dark=true&weeks=52&gap=0.4&scale=2&animation=fall&animation_duration=2&animation_delay=0.02" alt="3D contribution graph" width="100%"/>
+
+<br/>
+
+<img src="https://ghchart.rshah.org/00C9FF/farhan-ullah" alt="Contribution calendar" width="100%"/>
 
 </div>
 
