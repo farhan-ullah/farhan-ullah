@@ -101,6 +101,7 @@
 | **My Gift Partner** | Vendor app for partner network | [App Store](https://apps.apple.com/pk/app/my-gift-partner/id6444091640) |
 | **Frabelle** | Enterprise supply chain & retail | [Play Store](https://play.google.com/store/apps/details?id=com.johnsonville.frabelle) |
 | **PPIM Yakin** | Community app with geolocation | [Play Store](https://play.google.com/store/apps/details?id=my.org.ppim.yakin) |
+| **IC Cricket App** | Cricket scoring & match tracking for Islamabad Club | [App Store](https://apps.apple.com/us/app/ic-cricket-app/id6808103370) · [Play Store](https://play.google.com/store/apps/details?id=com.islamabadclub.cricketclub) |
 
 ---
 
