@@ -2,7 +2,7 @@
 
 # Hi there, I'm Farhan Ullah 👋
 
-### Senior Mobile App Developer | Android & iOS | Flutter 3.x | Real-Time Specialist
+### Senior Flutter & Android Developer | Founder, Dilraf Enterprise | Real-Time Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-farhanullah.vercel.app-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://farhanullah.vercel.app/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013992fc394427ee8c)
@@ -17,7 +17,8 @@
 ## 👨‍💻 About Me:
 
 - 🔭 I'm a **Senior Flutter & Android Developer** with **5+ years** of experience and **30+ published apps** on App Store & Google Play.
-- 🏢 Currently **Senior Mobile App Developer (Team Lead)** at **Averox**, Islamabad, Pakistan.
+- 🏢 Currently **Senior Flutter Developer (Team Lead)** at **Averox**, Islamabad, Pakistan.
+- 🚀 Founder & CEO of **Dilraf Enterprise** — building and shipping independent SaaS products: **Sightscreen**, **Dilraf PDF**, **Cuewell**, **Jobtide**, **Admitrio**, and **ClipKaro**.
 - 📱 Cross-platform delivery with **Flutter 3.x** and native depth in **Java/Kotlin** and **Swift/Xcode**.
 - 🎥 Specialist in real-time communications (**WebRTC, LiveKit, MediaSoup**), **Clean Architecture**, and **CI/CD** (Fastlane, GitHub Actions, Bitrise, Codemagic).
 - 💼 Top-rated freelancer on **Upwork** (\$10K+ earned, 35+ contracts, 100% Job Success) and **Fiverr** (Level 1, 5.0 rating, 56 orders).
@@ -83,6 +84,19 @@
 ### AI & Productivity
 ![Cursor](https://img.shields.io/badge/Cursor-AI%20Coding-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+---
+
+## 🚀 Products I've Built (Dilraf Enterprise):
+
+| Product | Description | Link |
+|---------|-------------|------|
+| **Sightscreen** | Cricket club management & live scoring SaaS | [sightscreen.dilraf.com](https://sightscreen.dilraf.com/) |
+| **Dilraf PDF** | Free PDF ↔ Word converter with OCR, Urdu/Arabic support | [pdf.dilraf.com](https://pdf.dilraf.com/) |
+| **Cuewell** | AI-powered interview coaching assistant | [cuewell.dilraf.com](https://cuewell.dilraf.com/) |
+| **Jobtide** | Job search & application tracker | [jobtide.dilraf.com](https://jobtide.dilraf.com/) |
+| **Admitrio** | University admissions & study-abroad platform | [admitrio.dilraf.com](https://admitrio.dilraf.com/) |
+| **ClipKaro** | Video downloader & content-repurposing tool | [clipkaro.dilraf.com](https://clipkaro.dilraf.com/) |
 
 ---
 
